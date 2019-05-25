@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    /*height: auto;*/
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #23232e;
+}
+
+.header__img{
+    display: block;
+    text-align: center;
+}
+
+.header__title{
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+}
+
+.header__suptitle{
+    color: #fff;
+    text-align: center;
+}
